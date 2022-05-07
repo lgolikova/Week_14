@@ -28,7 +28,7 @@ function calcDivision() {
 
 
 
-// Сброс скопировала из интернета:
+// Со сбросом помог наставник:
 function getReset() {
     let inputs = document.querySelectorAll('input[type=text]');
     for (let i=0; i < inputs.length; i++) {
